@@ -1,0 +1,26 @@
+[
+ {
+  "name": "La melodia",
+  "a": 1,
+  "b": 4,
+  "tip": "Pollice destro sul <b>Re</b>, mano ferma: ogni dito ha il suo tasto (Re Mi Fa# Sol La = 1 2 3 4 5)."
+ },
+ {
+  "name": "Risposta",
+  "a": 5,
+  "b": 8,
+  "tip": "Come le battute 1–4, ma finisce sul Re con l'accordo Re-Fa#-La."
+ },
+ {
+  "name": "Il ponte",
+  "a": 9,
+  "b": 12,
+  "tip": "Due crome veloci (Fa#-Sol). Alla 12 il pollice scende sul <b>La</b> sotto."
+ },
+ {
+  "name": "Finale",
+  "a": 13,
+  "b": 17,
+  "tip": "Tornano le battute 1–4; l'ultimo accordo si tiene per due battute."
+ }
+]

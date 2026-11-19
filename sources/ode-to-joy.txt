@@ -1,0 +1,33 @@
+# Beethoven, Symphony No. 9 (1824), "Ode to Joy" theme: public domain. Easy arrangement for this project,
+# in D major to stay inside a 49-key keyboard. Fingerings are suggestions for a beginner.
+title: Ode to Joy
+subtitle: Symphony No. 9, 4th movement (easy)
+composer: Ludwig van Beethoven
+arranger: piano-practice
+key: 2
+time: 4/4
+tempo: 96
+
+lesson: 1-4 | La melodia | Pollice destro sul <b>Re</b>, mano ferma: ogni dito ha il suo tasto (Re Mi Fa# Sol La = 1 2 3 4 5).
+lesson: 5-8 | Risposta | Come le battute 1–4, ma finisce sul Re con l'accordo Re-Fa#-La.
+lesson: 9-12 | Il ponte | Due crome veloci (Fa#-Sol). Alla 12 il pollice scende sul <b>La</b> sotto.
+lesson: 13-17 | Finale | Tornano le battute 1–4; l'ultimo accordo si tiene per due battute.
+
+# bar | right hand | left hand
+1  | F#4/q:3 F#4/q:3 G4/q:4 A4/q:5 | D3+A3/w:51
+2  | A4/q:5 G4/q:4 F#4/q:3 E4/q:2 | A2+G3/w:51
+3  | D4/q:1 D4/q:1 E4/q:2 F#4/q:3 | D3+A3/w:51
+4  | F#4/q.:3 E4/e:2 E4/h:2 | A2+G3/w:51
+5  | F#4/q:3 F#4/q:3 G4/q:4 A4/q:5 | D3+A3/w:51
+6  | A4/q:5 G4/q:4 F#4/q:3 E4/q:2 | A2+G3/w:51
+7  | D4/q:1 D4/q:1 E4/q:2 F#4/q:3 | D3+A3/w:51
+8  | E4/q.:2 D4/e:1 D4+F#4+A4/h:135 | A2+G3/h:51 D3/h:5
+9  | E4/q:2 E4/q:2 F#4/q:3 D4/q:1 | A2+E3/w:51
+10 | E4/q:2 F#4/e:3 G4/e:4 F#4/q:3 D4/q:1 | D3+A3/w:51
+11 | E4/q:2 F#4/e:3 G4/e:4 F#4/q:3 E4/q:2 | D3+A3/w:51
+12 | D4/q:2 E4/q:3 A3/h:1 | A2/q:5! E3/q:2! A3/h:1
+13 | F#4/q:3 F#4/q:3 G4/q:4 A4/q:5 | D3+A3/w:51
+14 | A4/q:5 G4/q:4 F#4/q:3 E4/q:2 | A2+G3/w:51
+15 | D4/q:1 D4/q:1 E4/q:2 F#4/q:3 | D3+A3/w:51
+16 | E4/q.:2 D4/e:1 D4+F#4+A4/h:135~ | A2+G3/h:51 D3+A3/h:51~
+17 | D4+F#4+A4/w:135 | D3+A3/w:51

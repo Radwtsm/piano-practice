@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Merged with the generated keys (GENERATE_INFOPLIST_FILE). piano:// opens the app from a link or a shortcut. -->
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.example.pianopractice</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>piano</string>
+			</array>
+		</dict>
+	</array>
+	<!-- Optional statistics sync (PianoSync): a self-hosted server as host:port, empty = local only.
+	     Plain HTTP is allowed only towards the local network / private IPs (e.g. a VPN). -->
+	<key>PianoSyncServer</key>
+	<string></string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

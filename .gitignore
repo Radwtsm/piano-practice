@@ -1,0 +1,5 @@
+build/
+xcuserdata/
+*.xcworkspace/xcuserdata/
+build.noindex/
+.DS_Store
